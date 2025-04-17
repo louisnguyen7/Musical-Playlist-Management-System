@@ -1,0 +1,1 @@
+int checkUniqueId(A3Song *headLL, int generatedId);
